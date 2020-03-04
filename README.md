@@ -5,3 +5,5 @@ This project is a Shell interface with a couple of common commands implemented u
 
 
 This project highlights important features in Operating Systems such as **creating child processes**, **redirecting input/output**, and **executing processes in parallel** with respect to parent and child processes.
+
+This shell will also have a history feature where the user could enter ```!!``` to call the previously entered command.
